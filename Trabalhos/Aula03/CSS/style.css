@@ -1,0 +1,45 @@
+/*
+CSS do Site
+Author Willyan Pereira
+*/
+
+body{
+    background-color: faf8da;
+}
+
+h1{
+    font-family: 'OpenSans-Bold', serif;    
+    font-weight: 2; 
+    font-size: 50px;
+    color: 205d76;
+    margin-left: 110px;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+img.header{
+    width: 500px;
+    margin-left: 150px;
+    margin-top: 0px;
+    margin-bottom: 35px;
+}
+img.icon{
+    width: 35%;
+}
+h2{
+    font-family: 'OpenSans-Bold', serif;    
+    font-size: 25px;
+    font-weight: 1; 
+    color: 205d76;
+}
+ul{
+    color: ffc122;
+    font-style: unset;
+}
+p.textolista{
+    color: ea6e2f;
+}
+div.meio{
+    display:inline-block;
+    display: vertical-align;
+    
+}
